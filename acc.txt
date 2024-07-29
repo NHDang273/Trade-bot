@@ -1,2 +1,0 @@
-login = 10003860797
-password = '!k2cEcPl'
