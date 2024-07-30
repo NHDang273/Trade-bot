@@ -32,16 +32,16 @@ def main():
                 mt5.shutdown()
                 return
 
-            current_price = tick_info.bid
+            current_price = tick_info.ask
 
             # Cập nhật giá trị SL và TP
-            stop_loss = current_price + 5   # SL 20 pips dưới giá Ask
-            take_profit = current_price - 5  # TP 20 pips trên giá Ask
+            stop_loss = current_price - 5   # SL 20 pips dưới giá Ask
+            take_profit = current_price + 5  # TP 20 pips trên giá Ask
 
             # Đảm bảo SL và TP hợp lệ
-            if stop_loss > current_price and take_profit < current_price:
+            if stop_loss < current_price and take_profit > current_price:
                 # Đặt lệnh mua
-                order_result = place_order("SELL", "XAUUSD", volume=0.01, price=current_price, stop_loss=stop_loss, take_profit=take_profit, comment="Test Order")
+                order_result = place_order("BUY", "XAUUSD", volume=0.01, price=current_price, stop_loss=stop_loss, take_profit=take_profit, comment="Test Order")
                 
                 if order_result is not None:
                     print("Order Result:", order_result)
