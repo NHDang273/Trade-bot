@@ -1,6 +1,6 @@
 import time
 import MetaTrader5 as mt5
-from Method import start_mt5, initialize_symbols, query_historic_data, place_order, get_open_orders, get_open_positions, cancel_order, modify_position
+from request import start_mt5, initialize_symbols, query_historic_data, place_order, get_open_orders, get_open_positions, cancel_order, modify_position
 import strategy
 
 def get_project_settings(filepath):
