@@ -1,13 +1,14 @@
 import time
 import MetaTrader5 as mt5
 import pandas as pd
-from Method import start_mt5, initialize_symbols, place_order, cancel_order, modify_position, get_open_orders, get_open_positions
+from request import start_mt5, initialize_symbols, place_order, cancel_order, modify_position, get_open_orders, get_open_positions
 from indicator_func.RSI import RSIInvestment
 import logging
 from datetime import datetime
 
+
 # Set up logging to log into a text file
-logging.basicConfig(filename='trade_log.txt', level=logging.INFO, 
+logging.basicConfig(filename='trade_log.txt', level=logging.INFO,
                     format='%(asctime)s - %(levelname)s - %(message)s')
 
 def get_project_settings(filepath):
@@ -108,6 +109,8 @@ def main():
                     rsi_investment.data = data.copy()
                     rsi_investment.calculate_rsi()
                     rsi_investment.generate_signals()
+
+                    
 
                     # Print and log the latest signals
                     latest_signal = rsi_investment.data.iloc[-1]

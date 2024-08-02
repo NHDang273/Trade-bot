@@ -1,32 +1,5 @@
-2024-08-02 11:23:06,370 - INFO - MT5 started successfully
-2024-08-02 11:23:06,380 - INFO - DataFrame saved to data_get.txt
-2024-08-02 11:23:06,383 - INFO - DataFrame saved to data_get.txt
-2024-08-02 11:23:06,385 - INFO - Time: 2024-08-02 04:23:00, Close: 2441.34, RSI: 31.882480957563075, Signal: 0
-2024-08-02 11:23:06,385 - INFO - No trade signals detected
-2024-08-02 11:24:06,389 - INFO - DataFrame saved to data_get.txt
-2024-08-02 11:24:06,391 - INFO - Time: 2024-08-02 04:24:00, Close: 2440.66, RSI: 31.522323830015807, Signal: 0
-2024-08-02 11:24:06,391 - INFO - No trade signals detected
-2024-08-02 11:25:06,395 - INFO - DataFrame saved to data_get.txt
-2024-08-02 11:25:06,398 - INFO - Time: 2024-08-02 04:25:00, Close: 2441.45, RSI: 35.771920387305215, Signal: 0
-2024-08-02 11:25:06,398 - INFO - No trade signals detected
-2024-08-02 11:26:06,402 - INFO - DataFrame saved to data_get.txt
-2024-08-02 11:26:06,403 - INFO - Time: 2024-08-02 04:26:00, Close: 2441.24, RSI: 39.630512514898754, Signal: 0
-2024-08-02 11:26:06,403 - INFO - No trade signals detected
-2024-08-02 11:27:06,407 - INFO - DataFrame saved to data_get.txt
-2024-08-02 11:27:06,409 - INFO - Time: 2024-08-02 04:27:00, Close: 2441.31, RSI: 47.39069111424472, Signal: 0
-2024-08-02 11:27:06,409 - INFO - No trade signals detected
-2024-08-02 11:28:06,413 - INFO - DataFrame saved to data_get.txt
-2024-08-02 11:28:06,415 - INFO - Time: 2024-08-02 04:28:00, Close: 2442.01, RSI: 70.13232514177638, Signal: -1
-2024-08-02 11:28:06,416 - INFO - Executing SELL order at 2442.01
-2024-08-02 11:29:06,419 - INFO - DataFrame saved to data_get.txt
-2024-08-02 11:29:06,422 - INFO - Time: 2024-08-02 04:29:00, Close: 2443.04, RSI: 72.30499561787819, Signal: -1
-2024-08-02 11:29:06,422 - INFO - Executing SELL order at 2443.04
-2024-08-02 11:30:06,425 - INFO - DataFrame saved to data_get.txt
-2024-08-02 11:30:06,427 - INFO - Time: 2024-08-02 04:30:00, Close: 2442.85, RSI: 82.66533066131952, Signal: -1
-2024-08-02 11:30:06,427 - INFO - Executing SELL order at 2442.85
-2024-08-02 11:31:06,431 - INFO - DataFrame saved to data_get.txt
-2024-08-02 11:31:06,433 - INFO - Time: 2024-08-02 04:31:00, Close: 2442.33, RSI: 73.62250879249376, Signal: -1
-2024-08-02 11:31:06,433 - INFO - Executing SELL order at 2442.33
-2024-08-02 11:32:06,435 - INFO - DataFrame saved to data_get.txt
-2024-08-02 11:32:06,438 - INFO - Time: 2024-08-02 04:32:00, Close: 2441.45, RSI: 69.16299559471295, Signal: 0
-2024-08-02 11:32:06,438 - INFO - No trade signals detected
+2024-08-03 00:30:59,875 - INFO - MT5 started successfully
+2024-08-03 00:30:59,884 - INFO - DataFrame saved to data_get.txt
+2024-08-03 00:30:59,887 - INFO - DataFrame saved to data_get.txt
+2024-08-03 00:30:59,888 - INFO - Time: 2024-08-02 17:30:00, Close: 2462.03, RSI: 21.869382863990893, Signal: 1
+2024-08-03 00:30:59,888 - INFO - Executing BUY order at 2462.03
