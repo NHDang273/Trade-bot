@@ -2,9 +2,9 @@ from collections import Counter
 import numpy as np
 import pandas as pd
 
-from SMAInvestment import *
-from MACDInvestment import *
-from BollingerVWAPInvestment import *
+from indicator_func.SMAInvestment import SMAInvestment
+from indicator_func.MACDInvestment import MACDInvestment
+from indicator_func.BollingerVWAPInvestment import BollingerVWAPInvestment
 
 
 class main:
@@ -29,25 +29,25 @@ class main:
 
         self.signal.append(BollingerVWAPInvestment(data = self.data, volume= self.volume, bollinger_window = 20, num_std_dev = 2).BollingerVWAP_signal())
         
-        def final_sig(lst):
+    def final_sig(lst):
     
-            count = Counter(lst)
+        count = Counter(lst)
             
 
-            max_count = max(count.values())
+        max_count = max(count.values())
             
     
-            most_common = [k for k, v in count.items() if v == max_count]
+        most_common = [k for k, v in count.items() if v == max_count]
             
         
-            if len(most_common) > 1:
-                return 0
+        if len(most_common) > 1:
+            return 0
             
-            return most_common[0]
+        return most_common[0]
     
-        finall = final_sig(self.signal)
+        # finall = final_sig(self.signal)
 
-        return finall
+        # return finall
 
     def calculate_profit(self):
         # return profit

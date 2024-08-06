@@ -1,6 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np  
+from datetime import datetime
 
 class SMAInvestment:
     def __init__(self, data, short_sma, long_sma):

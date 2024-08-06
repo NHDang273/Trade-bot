@@ -1,5 +1,481 @@
-2024-08-03 00:30:59,875 - INFO - MT5 started successfully
-2024-08-03 00:30:59,884 - INFO - DataFrame saved to data_get.txt
-2024-08-03 00:30:59,887 - INFO - DataFrame saved to data_get.txt
-2024-08-03 00:30:59,888 - INFO - Time: 2024-08-02 17:30:00, Close: 2462.03, RSI: 21.869382863990893, Signal: 1
-2024-08-03 00:30:59,888 - INFO - Executing BUY order at 2462.03
+2024-08-06 09:03:19,292 - INFO - MT5 started successfully
+2024-08-06 09:03:19,314 - INFO - RSI signals generated: 0
+2024-08-06 09:03:19,315 - INFO - MACD signals generated: -1
+2024-08-06 09:03:19,317 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:03:19,317 - INFO - SMA signals generated: 0
+2024-08-06 09:03:19,317 - INFO - Final signal: 0
+2024-08-06 09:03:19,317 - INFO - No signal to execute
+2024-08-06 09:04:19,331 - INFO - RSI signals generated: 0
+2024-08-06 09:04:19,332 - INFO - MACD signals generated: 0
+2024-08-06 09:04:19,334 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:04:19,334 - INFO - SMA signals generated: 0
+2024-08-06 09:04:19,335 - INFO - Final signal: 0
+2024-08-06 09:04:19,335 - INFO - No signal to execute
+2024-08-06 09:05:19,347 - INFO - RSI signals generated: 0
+2024-08-06 09:05:19,347 - INFO - MACD signals generated: 0
+2024-08-06 09:05:19,349 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:05:19,349 - INFO - SMA signals generated: -1
+2024-08-06 09:05:19,350 - INFO - Final signal: 0
+2024-08-06 09:05:19,350 - INFO - No signal to execute
+2024-08-06 09:06:19,363 - INFO - RSI signals generated: 0
+2024-08-06 09:06:19,364 - INFO - MACD signals generated: 0
+2024-08-06 09:06:19,365 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:06:19,366 - INFO - SMA signals generated: 0
+2024-08-06 09:06:19,366 - INFO - Final signal: 0
+2024-08-06 09:06:19,366 - INFO - No signal to execute
+2024-08-06 09:07:19,379 - INFO - RSI signals generated: 0
+2024-08-06 09:07:19,380 - INFO - MACD signals generated: 0
+2024-08-06 09:07:19,381 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:07:19,381 - INFO - SMA signals generated: 0
+2024-08-06 09:07:19,381 - INFO - Final signal: 0
+2024-08-06 09:07:19,381 - INFO - No signal to execute
+2024-08-06 09:08:19,393 - INFO - RSI signals generated: 0
+2024-08-06 09:08:19,394 - INFO - MACD signals generated: 0
+2024-08-06 09:08:19,395 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:08:19,395 - INFO - SMA signals generated: 0
+2024-08-06 09:08:19,396 - INFO - Final signal: 0
+2024-08-06 09:08:19,396 - INFO - No signal to execute
+2024-08-06 09:09:19,409 - INFO - RSI signals generated: 0
+2024-08-06 09:09:19,410 - INFO - MACD signals generated: 0
+2024-08-06 09:09:19,411 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:09:19,412 - INFO - SMA signals generated: 0
+2024-08-06 09:09:19,412 - INFO - Final signal: 0
+2024-08-06 09:09:19,412 - INFO - No signal to execute
+2024-08-06 09:10:19,426 - INFO - RSI signals generated: 0
+2024-08-06 09:10:19,427 - INFO - MACD signals generated: 0
+2024-08-06 09:10:19,428 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:10:19,429 - INFO - SMA signals generated: 0
+2024-08-06 09:10:19,429 - INFO - Final signal: 0
+2024-08-06 09:10:19,429 - INFO - No signal to execute
+2024-08-06 09:11:19,442 - INFO - RSI signals generated: 0
+2024-08-06 09:11:19,443 - INFO - MACD signals generated: 1
+2024-08-06 09:11:19,445 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:11:19,445 - INFO - SMA signals generated: 0
+2024-08-06 09:11:19,445 - INFO - Final signal: 0
+2024-08-06 09:11:19,445 - INFO - No signal to execute
+2024-08-06 09:12:19,458 - INFO - RSI signals generated: 0
+2024-08-06 09:12:19,459 - INFO - MACD signals generated: 0
+2024-08-06 09:12:19,461 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:12:19,461 - INFO - SMA signals generated: 1
+2024-08-06 09:12:19,461 - INFO - Final signal: 0
+2024-08-06 09:12:19,461 - INFO - No signal to execute
+2024-08-06 09:13:19,476 - INFO - RSI signals generated: 0
+2024-08-06 09:13:19,477 - INFO - MACD signals generated: 0
+2024-08-06 09:13:19,479 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:13:19,479 - INFO - SMA signals generated: 0
+2024-08-06 09:13:19,479 - INFO - Final signal: 0
+2024-08-06 09:13:19,479 - INFO - No signal to execute
+2024-08-06 09:14:19,495 - INFO - RSI signals generated: 0
+2024-08-06 09:14:19,496 - INFO - MACD signals generated: 0
+2024-08-06 09:14:19,497 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:14:19,498 - INFO - SMA signals generated: 0
+2024-08-06 09:14:19,498 - INFO - Final signal: 0
+2024-08-06 09:14:19,499 - INFO - No signal to execute
+2024-08-06 09:15:19,513 - INFO - RSI signals generated: 0
+2024-08-06 09:15:19,514 - INFO - MACD signals generated: -1
+2024-08-06 09:15:19,515 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:15:19,516 - INFO - SMA signals generated: 0
+2024-08-06 09:15:19,516 - INFO - Final signal: 0
+2024-08-06 09:15:19,516 - INFO - No signal to execute
+2024-08-06 09:16:19,530 - INFO - RSI signals generated: 0
+2024-08-06 09:16:19,531 - INFO - MACD signals generated: 0
+2024-08-06 09:16:19,532 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:16:19,533 - INFO - SMA signals generated: 0
+2024-08-06 09:16:19,533 - INFO - Final signal: 0
+2024-08-06 09:16:19,533 - INFO - No signal to execute
+2024-08-06 09:17:19,550 - INFO - RSI signals generated: 0
+2024-08-06 09:17:19,551 - INFO - MACD signals generated: 0
+2024-08-06 09:17:19,553 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:17:19,553 - INFO - SMA signals generated: 0
+2024-08-06 09:17:19,553 - INFO - Final signal: 0
+2024-08-06 09:17:19,553 - INFO - No signal to execute
+2024-08-06 09:18:19,568 - INFO - RSI signals generated: 0
+2024-08-06 09:18:19,569 - INFO - MACD signals generated: 1
+2024-08-06 09:18:19,570 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:18:19,571 - INFO - SMA signals generated: 0
+2024-08-06 09:18:19,571 - INFO - Final signal: 0
+2024-08-06 09:18:19,571 - INFO - No signal to execute
+2024-08-06 09:19:19,589 - INFO - RSI signals generated: 0
+2024-08-06 09:19:19,590 - INFO - MACD signals generated: 0
+2024-08-06 09:19:19,592 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:19:19,593 - INFO - SMA signals generated: 0
+2024-08-06 09:19:19,593 - INFO - Final signal: 0
+2024-08-06 09:19:19,593 - INFO - No signal to execute
+2024-08-06 09:20:19,610 - INFO - RSI signals generated: 0
+2024-08-06 09:20:19,611 - INFO - MACD signals generated: -1
+2024-08-06 09:20:19,613 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:20:19,614 - INFO - SMA signals generated: 0
+2024-08-06 09:20:19,614 - INFO - Final signal: 0
+2024-08-06 09:20:19,614 - INFO - No signal to execute
+2024-08-06 09:21:19,629 - INFO - RSI signals generated: 0
+2024-08-06 09:21:19,631 - INFO - MACD signals generated: 0
+2024-08-06 09:21:19,632 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:21:19,633 - INFO - SMA signals generated: 0
+2024-08-06 09:21:19,633 - INFO - Final signal: 0
+2024-08-06 09:21:19,633 - INFO - No signal to execute
+2024-08-06 09:22:19,649 - INFO - RSI signals generated: 0
+2024-08-06 09:22:19,650 - INFO - MACD signals generated: 1
+2024-08-06 09:22:19,652 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:22:19,652 - INFO - SMA signals generated: 0
+2024-08-06 09:22:19,653 - INFO - Final signal: 0
+2024-08-06 09:22:19,653 - INFO - No signal to execute
+2024-08-06 09:23:19,669 - INFO - RSI signals generated: 0
+2024-08-06 09:23:19,670 - INFO - MACD signals generated: -1
+2024-08-06 09:23:19,671 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:23:19,672 - INFO - SMA signals generated: 0
+2024-08-06 09:23:19,672 - INFO - Final signal: 0
+2024-08-06 09:23:19,672 - INFO - No signal to execute
+2024-08-06 09:24:19,687 - INFO - RSI signals generated: 0
+2024-08-06 09:24:19,689 - INFO - MACD signals generated: 0
+2024-08-06 09:24:19,690 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:24:19,691 - INFO - SMA signals generated: 0
+2024-08-06 09:24:19,691 - INFO - Final signal: 0
+2024-08-06 09:24:19,691 - INFO - No signal to execute
+2024-08-06 09:25:19,707 - INFO - RSI signals generated: 0
+2024-08-06 09:25:19,708 - INFO - MACD signals generated: 1
+2024-08-06 09:25:19,709 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:25:19,709 - INFO - SMA signals generated: 0
+2024-08-06 09:25:19,709 - INFO - Final signal: 0
+2024-08-06 09:25:19,709 - INFO - No signal to execute
+2024-08-06 09:26:19,726 - INFO - RSI signals generated: 0
+2024-08-06 09:26:19,727 - INFO - MACD signals generated: 0
+2024-08-06 09:26:19,728 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:26:19,728 - INFO - SMA signals generated: -1
+2024-08-06 09:26:19,728 - INFO - Final signal: 0
+2024-08-06 09:26:19,728 - INFO - No signal to execute
+2024-08-06 09:27:19,745 - INFO - RSI signals generated: 0
+2024-08-06 09:27:19,745 - INFO - MACD signals generated: 0
+2024-08-06 09:27:19,747 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:27:19,747 - INFO - SMA signals generated: 0
+2024-08-06 09:27:19,748 - INFO - Final signal: 0
+2024-08-06 09:27:19,748 - INFO - No signal to execute
+2024-08-06 09:28:19,764 - INFO - RSI signals generated: 0
+2024-08-06 09:28:19,765 - INFO - MACD signals generated: 0
+2024-08-06 09:28:19,767 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:28:19,767 - INFO - SMA signals generated: 0
+2024-08-06 09:28:19,767 - INFO - Final signal: 0
+2024-08-06 09:28:19,767 - INFO - No signal to execute
+2024-08-06 09:29:19,783 - INFO - RSI signals generated: 0
+2024-08-06 09:29:19,784 - INFO - MACD signals generated: 0
+2024-08-06 09:29:19,786 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:29:19,786 - INFO - SMA signals generated: 0
+2024-08-06 09:29:19,786 - INFO - Final signal: 0
+2024-08-06 09:29:19,786 - INFO - No signal to execute
+2024-08-06 09:30:19,803 - INFO - RSI signals generated: 0
+2024-08-06 09:30:19,804 - INFO - MACD signals generated: 0
+2024-08-06 09:30:19,806 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:30:19,806 - INFO - SMA signals generated: 0
+2024-08-06 09:30:19,806 - INFO - Final signal: 0
+2024-08-06 09:30:19,806 - INFO - No signal to execute
+2024-08-06 09:31:19,823 - INFO - RSI signals generated: 0
+2024-08-06 09:31:19,824 - INFO - MACD signals generated: 0
+2024-08-06 09:31:19,825 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:31:19,826 - INFO - SMA signals generated: 0
+2024-08-06 09:31:19,826 - INFO - Final signal: 0
+2024-08-06 09:31:19,826 - INFO - No signal to execute
+2024-08-06 09:32:19,844 - INFO - RSI signals generated: 0
+2024-08-06 09:32:19,845 - INFO - MACD signals generated: 0
+2024-08-06 09:32:19,846 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:32:19,847 - INFO - SMA signals generated: 0
+2024-08-06 09:32:19,847 - INFO - Final signal: 0
+2024-08-06 09:32:19,847 - INFO - No signal to execute
+2024-08-06 09:33:19,866 - INFO - RSI signals generated: 0
+2024-08-06 09:33:19,867 - INFO - MACD signals generated: 0
+2024-08-06 09:33:19,871 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:33:19,871 - INFO - SMA signals generated: 0
+2024-08-06 09:33:19,872 - INFO - Final signal: 0
+2024-08-06 09:33:19,872 - INFO - No signal to execute
+2024-08-06 09:34:19,889 - INFO - RSI signals generated: 0
+2024-08-06 09:34:19,890 - INFO - MACD signals generated: 0
+2024-08-06 09:34:19,892 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:34:19,893 - INFO - SMA signals generated: 0
+2024-08-06 09:34:19,893 - INFO - Final signal: 0
+2024-08-06 09:34:19,893 - INFO - No signal to execute
+2024-08-06 09:35:19,911 - INFO - RSI signals generated: 0
+2024-08-06 09:35:19,912 - INFO - MACD signals generated: 0
+2024-08-06 09:35:19,914 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:35:19,914 - INFO - SMA signals generated: 0
+2024-08-06 09:35:19,914 - INFO - Final signal: 0
+2024-08-06 09:35:19,914 - INFO - No signal to execute
+2024-08-06 09:36:19,932 - INFO - RSI signals generated: 0
+2024-08-06 09:36:19,933 - INFO - MACD signals generated: 0
+2024-08-06 09:36:19,935 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:36:19,935 - INFO - SMA signals generated: 0
+2024-08-06 09:36:19,935 - INFO - Final signal: 0
+2024-08-06 09:36:19,935 - INFO - No signal to execute
+2024-08-06 09:37:19,954 - INFO - RSI signals generated: 0
+2024-08-06 09:37:19,955 - INFO - MACD signals generated: 0
+2024-08-06 09:37:19,956 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:37:19,957 - INFO - SMA signals generated: 0
+2024-08-06 09:37:19,957 - INFO - Final signal: 0
+2024-08-06 09:37:19,957 - INFO - No signal to execute
+2024-08-06 09:38:19,974 - INFO - RSI signals generated: 0
+2024-08-06 09:38:19,975 - INFO - MACD signals generated: 0
+2024-08-06 09:38:19,976 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:38:19,977 - INFO - SMA signals generated: 0
+2024-08-06 09:38:19,977 - INFO - Final signal: 0
+2024-08-06 09:38:19,977 - INFO - No signal to execute
+2024-08-06 09:39:19,994 - INFO - RSI signals generated: 0
+2024-08-06 09:39:19,995 - INFO - MACD signals generated: 0
+2024-08-06 09:39:19,997 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:39:19,997 - INFO - SMA signals generated: 0
+2024-08-06 09:39:19,997 - INFO - Final signal: 0
+2024-08-06 09:39:19,997 - INFO - No signal to execute
+2024-08-06 09:40:20,016 - INFO - RSI signals generated: 0
+2024-08-06 09:40:20,017 - INFO - MACD signals generated: 0
+2024-08-06 09:40:20,019 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:40:20,019 - INFO - SMA signals generated: 0
+2024-08-06 09:40:20,020 - INFO - Final signal: 0
+2024-08-06 09:40:20,020 - INFO - No signal to execute
+2024-08-06 09:41:20,039 - INFO - RSI signals generated: 0
+2024-08-06 09:41:20,040 - INFO - MACD signals generated: 0
+2024-08-06 09:41:20,042 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:41:20,043 - INFO - SMA signals generated: 0
+2024-08-06 09:41:20,043 - INFO - Final signal: 0
+2024-08-06 09:41:20,043 - INFO - No signal to execute
+2024-08-06 09:42:20,064 - INFO - RSI signals generated: 1
+2024-08-06 09:42:20,065 - INFO - MACD signals generated: 0
+2024-08-06 09:42:20,066 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:42:20,067 - INFO - SMA signals generated: 0
+2024-08-06 09:42:20,067 - INFO - Final signal: 0
+2024-08-06 09:42:20,067 - INFO - No signal to execute
+2024-08-06 09:43:20,087 - INFO - RSI signals generated: 1
+2024-08-06 09:43:20,088 - INFO - MACD signals generated: 0
+2024-08-06 09:43:20,089 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:43:20,089 - INFO - SMA signals generated: 0
+2024-08-06 09:43:20,089 - INFO - Final signal: 0
+2024-08-06 09:43:20,089 - INFO - No signal to execute
+2024-08-06 09:44:20,110 - INFO - RSI signals generated: 1
+2024-08-06 09:44:20,110 - INFO - MACD signals generated: 0
+2024-08-06 09:44:20,112 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:44:20,113 - INFO - SMA signals generated: 0
+2024-08-06 09:44:20,113 - INFO - Final signal: 0
+2024-08-06 09:44:20,113 - INFO - No signal to execute
+2024-08-06 09:45:20,132 - INFO - RSI signals generated: 1
+2024-08-06 09:45:20,133 - INFO - MACD signals generated: 0
+2024-08-06 09:45:20,134 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:45:20,135 - INFO - SMA signals generated: 0
+2024-08-06 09:45:20,135 - INFO - Final signal: 0
+2024-08-06 09:45:20,135 - INFO - No signal to execute
+2024-08-06 09:46:20,155 - INFO - RSI signals generated: 1
+2024-08-06 09:46:20,156 - INFO - MACD signals generated: 0
+2024-08-06 09:46:20,157 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:46:20,158 - INFO - SMA signals generated: 0
+2024-08-06 09:46:20,158 - INFO - Final signal: 0
+2024-08-06 09:46:20,158 - INFO - No signal to execute
+2024-08-06 09:47:20,179 - INFO - RSI signals generated: 1
+2024-08-06 09:47:20,181 - INFO - MACD signals generated: 0
+2024-08-06 09:47:20,183 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:47:20,184 - INFO - SMA signals generated: 0
+2024-08-06 09:47:20,184 - INFO - Final signal: 0
+2024-08-06 09:47:20,184 - INFO - No signal to execute
+2024-08-06 09:48:20,202 - INFO - RSI signals generated: 1
+2024-08-06 09:48:20,203 - INFO - MACD signals generated: 0
+2024-08-06 09:48:20,204 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:48:20,205 - INFO - SMA signals generated: 0
+2024-08-06 09:48:20,205 - INFO - Final signal: 0
+2024-08-06 09:48:20,205 - INFO - No signal to execute
+2024-08-06 09:49:20,218 - INFO - RSI signals generated: 1
+2024-08-06 09:49:20,219 - INFO - MACD signals generated: 0
+2024-08-06 09:49:20,221 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:49:20,221 - INFO - SMA signals generated: 0
+2024-08-06 09:49:20,221 - INFO - Final signal: 0
+2024-08-06 09:49:20,221 - INFO - No signal to execute
+2024-08-06 09:50:20,232 - INFO - RSI signals generated: 1
+2024-08-06 09:50:20,233 - INFO - MACD signals generated: 0
+2024-08-06 09:50:20,234 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:50:20,234 - INFO - SMA signals generated: 0
+2024-08-06 09:50:20,235 - INFO - Final signal: 0
+2024-08-06 09:50:20,235 - INFO - No signal to execute
+2024-08-06 09:51:20,246 - INFO - RSI signals generated: 1
+2024-08-06 09:51:20,247 - INFO - MACD signals generated: 0
+2024-08-06 09:51:20,248 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:51:20,248 - INFO - SMA signals generated: 0
+2024-08-06 09:51:20,248 - INFO - Final signal: 0
+2024-08-06 09:51:20,248 - INFO - No signal to execute
+2024-08-06 09:52:20,259 - INFO - RSI signals generated: 1
+2024-08-06 09:52:20,260 - INFO - MACD signals generated: 0
+2024-08-06 09:52:20,262 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:52:20,262 - INFO - SMA signals generated: 0
+2024-08-06 09:52:20,263 - INFO - Final signal: 0
+2024-08-06 09:52:20,263 - INFO - No signal to execute
+2024-08-06 09:53:20,275 - INFO - RSI signals generated: 1
+2024-08-06 09:53:20,276 - INFO - MACD signals generated: 0
+2024-08-06 09:53:20,278 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:53:20,278 - INFO - SMA signals generated: 0
+2024-08-06 09:53:20,279 - INFO - Final signal: 0
+2024-08-06 09:53:20,279 - INFO - No signal to execute
+2024-08-06 09:54:20,289 - INFO - RSI signals generated: 0
+2024-08-06 09:54:20,290 - INFO - MACD signals generated: 1
+2024-08-06 09:54:20,291 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:54:20,291 - INFO - SMA signals generated: 0
+2024-08-06 09:54:20,292 - INFO - Final signal: 0
+2024-08-06 09:54:20,292 - INFO - No signal to execute
+2024-08-06 09:55:20,303 - INFO - RSI signals generated: 0
+2024-08-06 09:55:20,304 - INFO - MACD signals generated: 0
+2024-08-06 09:55:20,305 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:55:20,306 - INFO - SMA signals generated: 0
+2024-08-06 09:55:20,306 - INFO - Final signal: 0
+2024-08-06 09:55:20,306 - INFO - No signal to execute
+2024-08-06 09:56:20,316 - INFO - RSI signals generated: 0
+2024-08-06 09:56:20,317 - INFO - MACD signals generated: 0
+2024-08-06 09:56:20,319 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:56:20,319 - INFO - SMA signals generated: 0
+2024-08-06 09:56:20,320 - INFO - Final signal: 0
+2024-08-06 09:56:20,320 - INFO - No signal to execute
+2024-08-06 09:57:20,331 - INFO - RSI signals generated: 0
+2024-08-06 09:57:20,332 - INFO - MACD signals generated: -1
+2024-08-06 09:57:20,333 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:57:20,334 - INFO - SMA signals generated: 0
+2024-08-06 09:57:20,334 - INFO - Final signal: 0
+2024-08-06 09:57:20,334 - INFO - No signal to execute
+2024-08-06 09:58:20,346 - INFO - RSI signals generated: 0
+2024-08-06 09:58:20,347 - INFO - MACD signals generated: 0
+2024-08-06 09:58:20,348 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:58:20,348 - INFO - SMA signals generated: 0
+2024-08-06 09:58:20,348 - INFO - Final signal: 0
+2024-08-06 09:58:20,348 - INFO - No signal to execute
+2024-08-06 09:59:20,360 - INFO - RSI signals generated: 0
+2024-08-06 09:59:20,361 - INFO - MACD signals generated: 0
+2024-08-06 09:59:20,362 - INFO - Bollinger Band signals generated: 0
+2024-08-06 09:59:20,363 - INFO - SMA signals generated: 0
+2024-08-06 09:59:20,363 - INFO - Final signal: 0
+2024-08-06 09:59:20,363 - INFO - No signal to execute
+2024-08-06 10:00:20,374 - INFO - RSI signals generated: 0
+2024-08-06 10:00:20,375 - INFO - MACD signals generated: 1
+2024-08-06 10:00:20,377 - INFO - Bollinger Band signals generated: 0
+2024-08-06 10:00:20,377 - INFO - SMA signals generated: 0
+2024-08-06 10:00:20,377 - INFO - Final signal: 0
+2024-08-06 10:00:20,378 - INFO - No signal to execute
+2024-08-06 10:01:20,389 - INFO - RSI signals generated: 0
+2024-08-06 10:01:20,390 - INFO - MACD signals generated: 0
+2024-08-06 10:01:20,391 - INFO - Bollinger Band signals generated: 0
+2024-08-06 10:01:20,392 - INFO - SMA signals generated: 0
+2024-08-06 10:01:20,392 - INFO - Final signal: 0
+2024-08-06 10:01:20,392 - INFO - No signal to execute
+2024-08-06 10:02:20,404 - INFO - RSI signals generated: 0
+2024-08-06 10:02:20,405 - INFO - MACD signals generated: 0
+2024-08-06 10:02:20,406 - INFO - Bollinger Band signals generated: 0
+2024-08-06 10:02:20,407 - INFO - SMA signals generated: 0
+2024-08-06 10:02:20,407 - INFO - Final signal: 0
+2024-08-06 10:02:20,407 - INFO - No signal to execute
+2024-08-06 10:03:20,418 - INFO - RSI signals generated: 0
+2024-08-06 10:03:20,419 - INFO - MACD signals generated: 0
+2024-08-06 10:03:20,420 - INFO - Bollinger Band signals generated: 0
+2024-08-06 10:03:20,421 - INFO - SMA signals generated: 0
+2024-08-06 10:03:20,421 - INFO - Final signal: 0
+2024-08-06 10:03:20,421 - INFO - No signal to execute
+2024-08-06 10:04:20,434 - INFO - RSI signals generated: 0
+2024-08-06 10:04:20,435 - INFO - MACD signals generated: -1
+2024-08-06 10:04:20,436 - INFO - Bollinger Band signals generated: 0
+2024-08-06 10:04:20,436 - INFO - SMA signals generated: 1
+2024-08-06 10:04:20,437 - INFO - Final signal: 0
+2024-08-06 10:04:20,437 - INFO - No signal to execute
+2024-08-06 10:05:20,448 - INFO - RSI signals generated: -1
+2024-08-06 10:05:20,449 - INFO - MACD signals generated: 0
+2024-08-06 10:05:20,450 - INFO - Bollinger Band signals generated: 0
+2024-08-06 10:05:20,451 - INFO - SMA signals generated: 0
+2024-08-06 10:05:20,451 - INFO - Final signal: 0
+2024-08-06 10:05:20,451 - INFO - No signal to execute
+2024-08-06 10:06:20,465 - INFO - RSI signals generated: 0
+2024-08-06 10:06:20,467 - INFO - MACD signals generated: 0
+2024-08-06 10:06:20,469 - INFO - Bollinger Band signals generated: 0
+2024-08-06 10:06:20,469 - INFO - SMA signals generated: 0
+2024-08-06 10:06:20,470 - INFO - Final signal: 0
+2024-08-06 10:06:20,470 - INFO - No signal to execute
+2024-08-06 10:07:20,482 - INFO - RSI signals generated: 0
+2024-08-06 10:07:20,483 - INFO - MACD signals generated: 0
+2024-08-06 10:07:20,484 - INFO - Bollinger Band signals generated: 0
+2024-08-06 10:07:20,485 - INFO - SMA signals generated: 0
+2024-08-06 10:07:20,485 - INFO - Final signal: 0
+2024-08-06 10:07:20,485 - INFO - No signal to execute
+2024-08-06 10:08:20,497 - INFO - RSI signals generated: 0
+2024-08-06 10:08:20,498 - INFO - MACD signals generated: 0
+2024-08-06 10:08:20,499 - INFO - Bollinger Band signals generated: 0
+2024-08-06 10:08:20,500 - INFO - SMA signals generated: 0
+2024-08-06 10:08:20,500 - INFO - Final signal: 0
+2024-08-06 10:08:20,500 - INFO - No signal to execute
+2024-08-06 10:09:20,512 - INFO - RSI signals generated: 0
+2024-08-06 10:09:20,513 - INFO - MACD signals generated: 0
+2024-08-06 10:09:20,514 - INFO - Bollinger Band signals generated: 0
+2024-08-06 10:09:20,515 - INFO - SMA signals generated: 0
+2024-08-06 10:09:20,515 - INFO - Final signal: 0
+2024-08-06 10:09:20,515 - INFO - No signal to execute
+2024-08-06 10:10:20,526 - INFO - RSI signals generated: 0
+2024-08-06 10:10:20,527 - INFO - MACD signals generated: 0
+2024-08-06 10:10:20,528 - INFO - Bollinger Band signals generated: 0
+2024-08-06 10:10:20,529 - INFO - SMA signals generated: 0
+2024-08-06 10:10:20,529 - INFO - Final signal: 0
+2024-08-06 10:10:20,529 - INFO - No signal to execute
+2024-08-06 10:11:20,541 - INFO - RSI signals generated: -1
+2024-08-06 10:11:20,542 - INFO - MACD signals generated: 0
+2024-08-06 10:11:20,543 - INFO - Bollinger Band signals generated: 0
+2024-08-06 10:11:20,544 - INFO - SMA signals generated: 0
+2024-08-06 10:11:20,544 - INFO - Final signal: 0
+2024-08-06 10:11:20,544 - INFO - No signal to execute
+2024-08-06 10:12:20,556 - INFO - RSI signals generated: -1
+2024-08-06 10:12:20,557 - INFO - MACD signals generated: 0
+2024-08-06 10:12:20,558 - INFO - Bollinger Band signals generated: 0
+2024-08-06 10:12:20,559 - INFO - SMA signals generated: 0
+2024-08-06 10:12:20,559 - INFO - Final signal: 0
+2024-08-06 10:12:20,559 - INFO - No signal to execute
+2024-08-06 10:13:20,570 - INFO - RSI signals generated: -1
+2024-08-06 10:13:20,571 - INFO - MACD signals generated: 0
+2024-08-06 10:13:20,573 - INFO - Bollinger Band signals generated: 0
+2024-08-06 10:13:20,573 - INFO - SMA signals generated: 0
+2024-08-06 10:13:20,573 - INFO - Final signal: 0
+2024-08-06 10:13:20,574 - INFO - No signal to execute
+2024-08-06 10:14:20,585 - INFO - RSI signals generated: -1
+2024-08-06 10:14:20,586 - INFO - MACD signals generated: 0
+2024-08-06 10:14:20,588 - INFO - Bollinger Band signals generated: 0
+2024-08-06 10:14:20,589 - INFO - SMA signals generated: 0
+2024-08-06 10:14:20,589 - INFO - Final signal: 0
+2024-08-06 10:14:20,589 - INFO - No signal to execute
+2024-08-06 10:15:20,600 - INFO - RSI signals generated: 0
+2024-08-06 10:15:20,601 - INFO - MACD signals generated: 0
+2024-08-06 10:15:20,603 - INFO - Bollinger Band signals generated: 0
+2024-08-06 10:15:20,603 - INFO - SMA signals generated: 0
+2024-08-06 10:15:20,603 - INFO - Final signal: 0
+2024-08-06 10:15:20,603 - INFO - No signal to execute
+2024-08-06 10:16:20,615 - INFO - RSI signals generated: 0
+2024-08-06 10:16:20,616 - INFO - MACD signals generated: 0
+2024-08-06 10:16:20,617 - INFO - Bollinger Band signals generated: 0
+2024-08-06 10:16:20,617 - INFO - SMA signals generated: 0
+2024-08-06 10:16:20,618 - INFO - Final signal: 0
+2024-08-06 10:16:20,618 - INFO - No signal to execute
+2024-08-06 10:17:20,630 - INFO - RSI signals generated: 0
+2024-08-06 10:17:20,631 - INFO - MACD signals generated: 0
+2024-08-06 10:17:20,632 - INFO - Bollinger Band signals generated: 0
+2024-08-06 10:17:20,632 - INFO - SMA signals generated: 0
+2024-08-06 10:17:20,633 - INFO - Final signal: 0
+2024-08-06 10:17:20,633 - INFO - No signal to execute
+2024-08-06 10:18:20,643 - INFO - RSI signals generated: 0
+2024-08-06 10:18:20,644 - INFO - MACD signals generated: 0
+2024-08-06 10:18:20,645 - INFO - Bollinger Band signals generated: 0
+2024-08-06 10:18:20,646 - INFO - SMA signals generated: 0
+2024-08-06 10:18:20,646 - INFO - Final signal: 0
+2024-08-06 10:18:20,646 - INFO - No signal to execute
+2024-08-06 10:19:20,657 - INFO - RSI signals generated: 0
+2024-08-06 10:19:20,658 - INFO - MACD signals generated: 0
+2024-08-06 10:19:20,660 - INFO - Bollinger Band signals generated: 0
+2024-08-06 10:19:20,660 - INFO - SMA signals generated: 0
+2024-08-06 10:19:20,661 - INFO - Final signal: 0
+2024-08-06 10:19:20,661 - INFO - No signal to execute
+2024-08-06 10:20:20,671 - INFO - RSI signals generated: 0
+2024-08-06 10:20:20,673 - INFO - MACD signals generated: 0
+2024-08-06 10:20:20,674 - INFO - Bollinger Band signals generated: 0
+2024-08-06 10:20:20,675 - INFO - SMA signals generated: 0
+2024-08-06 10:20:20,675 - INFO - Final signal: 0
+2024-08-06 10:20:20,675 - INFO - No signal to execute
+2024-08-06 10:21:20,686 - INFO - RSI signals generated: -1
+2024-08-06 10:21:20,688 - INFO - MACD signals generated: 0
+2024-08-06 10:21:20,689 - INFO - Bollinger Band signals generated: 0
+2024-08-06 10:21:20,689 - INFO - SMA signals generated: 0
+2024-08-06 10:21:20,689 - INFO - Final signal: 0
+2024-08-06 10:21:20,689 - INFO - No signal to execute
+2024-08-06 10:22:20,701 - INFO - RSI signals generated: -1
+2024-08-06 10:22:20,702 - INFO - MACD signals generated: 0
+2024-08-06 10:22:20,704 - INFO - Bollinger Band signals generated: 0
+2024-08-06 10:22:20,704 - INFO - SMA signals generated: 0
+2024-08-06 10:22:20,704 - INFO - Final signal: 0
+2024-08-06 10:22:20,704 - INFO - No signal to execute
